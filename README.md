@@ -1,8 +1,8 @@
+# TicTacToe-AI-Project
 A Smart Tic-Toc-Toe game using MinMax algorithm with Alpha-Beta Purning.
 
 
 
-# TicTacToe-AI-Project
 
 This project is an implementation of a smart Tic-Tac-Toe game powered by the **Minimax** algorithm, optimized with **Alpha-Beta Pruning**.
 
